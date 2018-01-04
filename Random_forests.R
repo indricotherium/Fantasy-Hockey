@@ -1,3 +1,4 @@
+library(ggplot2)
 library(clusterGeneration)
 library(mnormt)
 library(corrplot)
